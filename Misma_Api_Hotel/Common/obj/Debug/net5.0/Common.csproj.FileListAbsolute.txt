@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\obj\Debug\net5.0\refint\Common.dll
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\bin\Debug\net5.0\DapperBD.dll
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\bin\Debug\net5.0\DapperBD.pdb
+C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Common\obj\Debug\net5.0\Common.csproj.CopyComplete
