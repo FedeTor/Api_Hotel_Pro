@@ -18,7 +18,7 @@ namespace Api.Login.Controllers
             _login = login;
         }
 
-        [HttpPost("login")]
+        [HttpPost]
         public async Task<IActionResult> LoginAsync([FromForm] RequestLogin requestLogin)
         {
             var responseValidacion = new ResponseValidarUsuario();

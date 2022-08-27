@@ -15,3 +15,20 @@ C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Models\obj\Debug\net5.
 C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Models\obj\Debug\net5.0\ref\Models.dll
 C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Models\bin\Debug\net5.0\DapperBD.dll
 C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\Models\bin\Debug\net5.0\DapperBD.pdb
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\bin\Debug\net5.0\Models.deps.json
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\bin\Debug\net5.0\Models.dll
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\bin\Debug\net5.0\Models.pdb
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\bin\Debug\net5.0\Common.dll
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\bin\Debug\net5.0\DapperBD.dll
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\bin\Debug\net5.0\Common.pdb
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\bin\Debug\net5.0\DapperBD.pdb
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\obj\Debug\net5.0\Models.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\obj\Debug\net5.0\Models.dll
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\obj\Debug\net5.0\refint\Models.dll
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\obj\Debug\net5.0\Models.pdb
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Models\obj\Debug\net5.0\ref\Models.dll

@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using System.Linq;
 using System.Text;
 
 namespace Api.Login
@@ -33,10 +34,12 @@ namespace Api.Login
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Api.Login", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "DBMismaApi_Hotel", Version = "v1" });                
+
             });
 
             var key = Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]);
+
             services.AddAuthentication(x =>
             {
                 x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -67,7 +70,7 @@ namespace Api.Login
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Api.Login v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "DBMismaApi_Hotel v1"));               
             }
 
             // permite usar la clase JwtMiddleware

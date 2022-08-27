@@ -10,3 +10,15 @@ C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\DapperBD\obj\Debug\net
 C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\DapperBD\obj\Debug\net5.0\refint\DapperBD.dll
 C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\DapperBD\obj\Debug\net5.0\DapperBD.pdb
 C:\Users\Lenovo\Desktop\8-Misma.Api_Hotel\Misma_Api_Hotel\DapperBD\obj\Debug\net5.0\ref\DapperBD.dll
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\DapperBD\bin\Debug\net5.0\DapperBD.deps.json
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\DapperBD\bin\Debug\net5.0\DapperBD.dll
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\DapperBD\bin\Debug\net5.0\DapperBD.pdb
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\DapperBD\obj\Debug\net5.0\DapperBD.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\DapperBD\obj\Debug\net5.0\DapperBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\DapperBD\obj\Debug\net5.0\DapperBD.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\DapperBD\obj\Debug\net5.0\DapperBD.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\DapperBD\obj\Debug\net5.0\DapperBD.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\DapperBD\obj\Debug\net5.0\DapperBD.dll
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\DapperBD\obj\Debug\net5.0\refint\DapperBD.dll
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\DapperBD\obj\Debug\net5.0\DapperBD.pdb
+C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\DapperBD\obj\Debug\net5.0\ref\DapperBD.dll

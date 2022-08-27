@@ -16,9 +16,7 @@ using static Common.Enumerables.EnumerablesDB;
 using static Common.HashMethods.Hashes;
 
 namespace Api.Login.Services
-{
-    [Route("api/[controller]")]
-    [ApiController]
+{    
     public class ServiceLogin : IServiceLogin
     {
         private readonly DapperContext _context;
@@ -35,8 +33,7 @@ namespace Api.Login.Services
         /// Metodo para el mensaje de bienvenida
         /// </summary>
         ///<param name="texto">text requerido para el cuerpo del mensaje</param>
-        ///<returns></returns>
-        [HttpPost]
+        ///<returns></returns>        
         public async Task<ResponseLogin> LoginAsync(RequestLogin requestLogin)
         {
             var response = new ResponseLogin();

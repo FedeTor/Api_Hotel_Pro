@@ -5,7 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Roles\" />
+    <Compile Remove="Roles\**" />
+    <EmbeddedResource Remove="Roles\**" />
+    <None Remove="Roles\**" />
   </ItemGroup>
 
   <ItemGroup>
