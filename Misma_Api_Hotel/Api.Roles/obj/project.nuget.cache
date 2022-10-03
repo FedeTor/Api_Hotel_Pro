@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mZKvocPBO0ApIA3TBNyVvzXU1LfkkfQ/IktIzWk21jO7kUFx1m5oGeps7kpfuLR1cXehPerlbt1Xy1qlZq+lVA==",
+  "dgSpecHash": "RJ07cfHnvl9vLx+SPwzrPgamoL54f687K6pGzlPJglzJ287qc+duM8hUPuK3WCtSOeYBZY0sr7CcKhAUVfJ50g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\1-Api Hotel\\Misma Api (La Pro)\\Api_Hotel_Pro\\Misma_Api_Hotel\\Api.Roles\\Api.Roles.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\API HOTEL.GitHub\\Api_Hotel Pro (Editada)\\Api_Hotel_Pro\\Misma_Api_Hotel\\Api.Roles\\Api.Roles.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

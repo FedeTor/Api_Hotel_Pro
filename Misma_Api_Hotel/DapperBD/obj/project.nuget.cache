@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O0h/FZd3SZVhEocw2x99RknwIb6JTYoMU8i31HdaI1CIEYGqIWmSmGrWSheYlGt9riwe5k9Xf5c5KDhQew5TVQ==",
+  "dgSpecHash": "KnvFGqwU3cftjVTCaWPar/EBujR1/6WT+kL40wLK31XfaqW31PC1rIGgjC9mvhK6JxGk7Oe6uoH8rPbGseNpNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\1-Api Hotel\\Misma Api (La Pro)\\Api_Hotel_Pro\\Misma_Api_Hotel\\DapperBD\\DapperBD.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\API HOTEL.GitHub\\Api_Hotel Pro (Editada)\\Api_Hotel_Pro\\Misma_Api_Hotel\\DapperBD\\DapperBD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

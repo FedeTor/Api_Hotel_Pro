@@ -1,4 +1,4 @@
-create database RepitiendoApi_Hotel
+create database DBMismaApi_Hotel
 
 --Tabla Usuarios
 create table Usuarios(
@@ -85,5 +85,10 @@ Hash nvarchar(max)
 
 SELECT * FROM CancelarToken
 
+-- Tabla IntegracionApi
+create table IntegracionApi(
+Id int primary key identity (1,1) not null,
+display_url nvarchar (max)
+)
 
 
