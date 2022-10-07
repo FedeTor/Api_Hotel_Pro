@@ -17,21 +17,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Password", "Api.Passwor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Files", "Api.Files\Api.Files.csproj", "{63FD4C10-0B44-43C8-83D0-B81538F6F87D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.ReservationRooms", "Api.BookRooms\Api.ReservationRooms.csproj", "{F8D8FF11-1559-4A73-8FA1-23BA6398C36C}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{CE43A303-D6CC-412C-821F-C68AB685DB94}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{68BE0BA0-EEB3-49DE-BE47-CCBC3908CB48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{EE0C148E-E31D-414D-A51E-013D25BCCBA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{EE0C148E-E31D-414D-A51E-013D25BCCBA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{C0A04FC6-07E6-417D-8C57-7B031146E8E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{C0A04FC6-07E6-417D-8C57-7B031146E8E7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{81710A82-294D-4C15-B991-D5F028D1A3C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework", "EntityFramework\EntityFramework.csproj", "{E1D7DA8B-F879-4CFE-B21B-BE864500ECE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFramework", "EntityFramework\EntityFramework.csproj", "{E1D7DA8B-F879-4CFE-B21B-BE864500ECE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperBD", "DapperBD\DapperBD.csproj", "{F6200B8A-B310-4418-96A8-7F02E376BC86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperBD", "DapperBD\DapperBD.csproj", "{F6200B8A-B310-4418-96A8-7F02E376BC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.ReserveRoom", "Api.ReserveRoom\Api.ReserveRoom.csproj", "{A03AE655-5838-4F81-8F39-7B708854C73A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,10 +67,6 @@ Global
 		{63FD4C10-0B44-43C8-83D0-B81538F6F87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63FD4C10-0B44-43C8-83D0-B81538F6F87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63FD4C10-0B44-43C8-83D0-B81538F6F87D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F8D8FF11-1559-4A73-8FA1-23BA6398C36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F8D8FF11-1559-4A73-8FA1-23BA6398C36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F8D8FF11-1559-4A73-8FA1-23BA6398C36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F8D8FF11-1559-4A73-8FA1-23BA6398C36C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EE0C148E-E31D-414D-A51E-013D25BCCBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EE0C148E-E31D-414D-A51E-013D25BCCBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE0C148E-E31D-414D-A51E-013D25BCCBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -87,6 +83,10 @@ Global
 		{F6200B8A-B310-4418-96A8-7F02E376BC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6200B8A-B310-4418-96A8-7F02E376BC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6200B8A-B310-4418-96A8-7F02E376BC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A03AE655-5838-4F81-8F39-7B708854C73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03AE655-5838-4F81-8F39-7B708854C73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03AE655-5838-4F81-8F39-7B708854C73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03AE655-5838-4F81-8F39-7B708854C73A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

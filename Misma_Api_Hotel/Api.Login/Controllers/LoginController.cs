@@ -64,5 +64,26 @@ namespace Api.Login.Controllers
                 }
             }
         }
+
+
+        public async Task<IActionResult> IntegracionApi()
+        {
+            var response = new ResponseIntegracion();
+
+            var logueo = new RequestLogin();
+
+            var datosLogin = await _login.LoginAsync(logueo);
+
+            if (datosLogin.Ok)
+            {
+                response.resultado.Ok = true;
+                response.resultado.Message = "Datos del usuario logueado";
+                response.resultado.datos = 
+            }
+
+        }
+
+
+
     }
 }

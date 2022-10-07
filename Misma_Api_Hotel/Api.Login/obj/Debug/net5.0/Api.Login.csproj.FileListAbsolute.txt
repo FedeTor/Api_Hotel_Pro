@@ -104,3 +104,13 @@ C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_H
 C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\Api.Login.pdb
 C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\Api.Login.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\1-Api Hotel\Misma Api (La Pro)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\ref\Api.Login.dll
+C:\Users\LENOVO\Desktop\API HOTEL.GitHub\Api_Hotel Pro (Editada)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\Api.Login.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\API HOTEL.GitHub\Api_Hotel Pro (Editada)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\Api.Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\API HOTEL.GitHub\Api_Hotel Pro (Editada)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\Api.Login.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\API HOTEL.GitHub\Api_Hotel Pro (Editada)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\Api.Login.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\API HOTEL.GitHub\Api_Hotel Pro (Editada)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\Api.Login.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\API HOTEL.GitHub\Api_Hotel Pro (Editada)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\Api.Login.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\API HOTEL.GitHub\Api_Hotel Pro (Editada)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\Api.Login.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\API HOTEL.GitHub\Api_Hotel Pro (Editada)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\Api.Login.dll
+C:\Users\LENOVO\Desktop\API HOTEL.GitHub\Api_Hotel Pro (Editada)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\refint\Api.Login.dll
+C:\Users\LENOVO\Desktop\API HOTEL.GitHub\Api_Hotel Pro (Editada)\Api_Hotel_Pro\Misma_Api_Hotel\Api.Login\obj\Debug\net5.0\Api.Login.pdb
