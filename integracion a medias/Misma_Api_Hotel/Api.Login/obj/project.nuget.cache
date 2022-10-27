@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WP2Obg8DT8EabIPD59ZDeNdUtM99JrEaLD+js7wnCpRIV3KuRhPRBLCZOMWTxqL+JWRxtgA3+ygkGINPT9oOEw==",
+  "dgSpecHash": "xXVRXcI6AM42DMXF5H490rz12cioWsTTTqywh1wTmg58BKPAct0EulbVA8/2z1H1xn+LDnJtljzW6Zs64yiXMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\DATOS\\Desktop\\1-Api Hotel\\Misma Api (La Pro)\\Api_Hotel_Pro\\Misma_Api_Hotel\\Api.Login\\Api.Login.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\API HOTEL.GitHub\\Api_Hotel Pro (Editada)\\Api_Hotel_Pro\\integracion a medias\\Misma_Api_Hotel\\Api.Login\\Api.Login.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",

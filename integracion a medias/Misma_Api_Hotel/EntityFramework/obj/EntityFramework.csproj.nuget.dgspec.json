@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\DATOS\\Desktop\\1-Api Hotel\\Misma Api (La Pro)\\Api_Hotel_Pro\\Misma_Api_Hotel\\EntityFramework\\EntityFramework.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\API HOTEL.GitHub\\Api_Hotel Pro (Editada)\\Api_Hotel_Pro\\integracion a medias\\Misma_Api_Hotel\\EntityFramework\\EntityFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\DATOS\\Desktop\\1-Api Hotel\\Misma Api (La Pro)\\Api_Hotel_Pro\\Misma_Api_Hotel\\EntityFramework\\EntityFramework.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\API HOTEL.GitHub\\Api_Hotel Pro (Editada)\\Api_Hotel_Pro\\integracion a medias\\Misma_Api_Hotel\\EntityFramework\\EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\DATOS\\Desktop\\1-Api Hotel\\Misma Api (La Pro)\\Api_Hotel_Pro\\Misma_Api_Hotel\\EntityFramework\\EntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\API HOTEL.GitHub\\Api_Hotel Pro (Editada)\\Api_Hotel_Pro\\integracion a medias\\Misma_Api_Hotel\\EntityFramework\\EntityFramework.csproj",
         "projectName": "EntityFramework",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\DATOS\\Desktop\\1-Api Hotel\\Misma Api (La Pro)\\Api_Hotel_Pro\\Misma_Api_Hotel\\EntityFramework\\EntityFramework.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\API HOTEL.GitHub\\Api_Hotel Pro (Editada)\\Api_Hotel_Pro\\integracion a medias\\Misma_Api_Hotel\\EntityFramework\\EntityFramework.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\DATOS\\Desktop\\1-Api Hotel\\Misma Api (La Pro)\\Api_Hotel_Pro\\Misma_Api_Hotel\\EntityFramework\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\API HOTEL.GitHub\\Api_Hotel Pro (Editada)\\Api_Hotel_Pro\\integracion a medias\\Misma_Api_Hotel\\EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

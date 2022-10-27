@@ -28,6 +28,11 @@ namespace Api.Login.Services
             _config = config;
         }
 
+        public Task<ResponseIntegracion> IntegrarApi(RequestLogin requestLogin)
+        {
+            throw new NotImplementedException();
+        }
+
 
         ///<summary>
         /// Metodo para el mensaje de bienvenida

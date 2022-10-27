@@ -1,8 +1,10 @@
 ﻿using Api.Login.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Models;
 using Models.Request;
 using Models.Response;
+using System.Net.Http;
 using System.Threading.Tasks;
 
 namespace Api.Login.Controllers
@@ -12,6 +14,7 @@ namespace Api.Login.Controllers
     public class LoginController : Controller
     {
         private readonly IServiceLogin _login;
+        //private readonly IConfiguration _config;
 
         public LoginController(IServiceLogin login)
         {
@@ -54,7 +57,7 @@ namespace Api.Login.Controllers
                         responseLogin.Ok = false;
                         responseLogin.Message = "Los datos no coinciden";
                         return BadRequest(responseLogin);
-                    }                    
+                    }
                 }
                 else
                 {
@@ -65,25 +68,23 @@ namespace Api.Login.Controllers
             }
         }
 
+        //[HttpPost]
+        //public async Task<IActionResult> IntegrarApi()
+        //{
+        //    var response = new ResponseIntegracion();
+        //    //var url = _config["AppSettings:ApiIntegracion:Uri"];
 
-        public async Task<IActionResult> IntegracionApi()
-        {
-            var response = new ResponseIntegracion();
+        //    var cliente = new HttpClient();
+        //    var json = await cliente.GetStringAsync("https://localhost:10/api/Login"); // lo llamo json xq devuelve un formato json
 
-            var logueo = new RequestLogin();
-
-            var datosLogin = await _login.LoginAsync(logueo);
-
-            if (datosLogin.Ok)
-            {
-                response.resultado.Ok = true;
-                response.resultado.Message = "Datos del usuario logueado";
-                response.resultado.datos = 
-            }
-
-        }
-
-
+        //    if (json != null)
+        //    {
+        //        response.resultado.Ok = true;
+        //        response.resultado.Message = "Datos del usuario logueado";
+        //        return BadRequest();
+        //    }
+        //    return Ok(response);
+        //}
 
     }
 }

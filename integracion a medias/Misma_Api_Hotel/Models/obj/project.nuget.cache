@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oSg0EiVLdELZmZIYuiPw4N6B4qhw4pXPCVnk64PwM/eIogVeW26GKalQ8BcsAwhGA0YE+w9KXoRd4yR9j7Ao9w==",
+  "dgSpecHash": "LoitftvoYeFucexIVzfaGtsj+gbL+UrxgrJ16tkDyfWlmcoO349F8/0CtmdgFl0Guq30ML/JFfEmYIJ/0NiNiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\DATOS\\Desktop\\1-Api Hotel\\Misma Api (La Pro)\\Api_Hotel_Pro\\Misma_Api_Hotel\\Models\\Models.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\API HOTEL.GitHub\\Api_Hotel Pro (Editada)\\Api_Hotel_Pro\\integracion a medias\\Misma_Api_Hotel\\Models\\Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

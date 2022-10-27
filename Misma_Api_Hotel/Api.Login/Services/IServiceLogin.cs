@@ -9,5 +9,7 @@ namespace Api.Login.Services
     {
         Task<ResponseLogin> LoginAsync(RequestLogin requestLogin);
         Task<ResponseValidarUsuario> ValidarUsuarioAsync(ValidarUsuarioDto validarUsuario);
+
+        Task<ResponseIntegracion> IntegrarApi(RequestLogin requestLogin);
     }
 }
